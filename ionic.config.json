@@ -1,0 +1,7 @@
+{
+  "name": "ionic3-obd",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
